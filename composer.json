@@ -1,5 +1,5 @@
 {
-    "name": "makeandship/mend",
+    "name": "makeandship/mend-survey-plugin",
     "description": "Base class for Mend surveys",
     "keywords": ["mend", "survey", "plugin"],
     "license": "proprietary",
