@@ -1,0 +1,24 @@
+{
+    "name": "makeandship/mend",
+    "description": "Base class for Mend surveys",
+    "keywords": ["mend", "survey", "plugin"],
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Mark Thomsit",
+            "email": "mark@makeandship.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=5.4"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "5.2.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "MakeAndShip\\Mend\\": ["src/"]
+        }
+    }
+}
